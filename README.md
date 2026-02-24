@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hey, I'm Rémi 👋
+# Hey, I'm Rémi Viau 👋
 
 ### AI Solutions Architect · Entrepreneur · Cloud Pioneer
 
 *Above the clouds and beyond* ☁️🚀
 
 [![Email](https://img.shields.io/badge/Email-remi.viau%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:remi.viau@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rémi_Viau-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rémi_Viau-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rviau/)
 [![Location](https://img.shields.io/badge/📍-Lyon,_France-blue?style=flat-square)]()
 
 </div>
@@ -41,7 +41,10 @@ After founding and scaling **iilyo / hopla.cloud** (cloud infrastructure, sold t
 
 **Dev & Infra**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
