@@ -6,17 +6,11 @@
 
 *Building tools that keep AI-generated code honest*
 
-[
 
-![Email](https://img.shields.io/badge/Email-remi.viau%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-remi.viau%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:remi.viau@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-R%C3%A9mi_Viau-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rviau/) 
+![Location](https://img.shields.io/badge/%F0%9F%93%8D-Lyon,_France-blue?style=flat-square)
 
-](mailto:remi.viau@gmail.com) [
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-R%C3%A9mi_Viau-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/rviau/) 
-
-![Location](https://img.shields.io/badge/📍-Lyon,_France-blue?style=flat-square)
 
 </div>
 
