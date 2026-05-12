@@ -6,11 +6,9 @@
 
 *Building tools that keep AI-generated code honest*
 
-
 [![Email](https://img.shields.io/badge/Email-remi.viau%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:remi.viau@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-R%C3%A9mi_Viau-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rviau/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-R%C3%A9mi_Viau-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rviau/)
 ![Location](https://img.shields.io/badge/%F0%9F%93%8D-Lyon,_France-blue?style=flat-square)
-
 
 </div>
 
@@ -24,9 +22,9 @@ The bigger your project gets, the dumber your AI coding agent gets. Anatoly fixe
 
 Plugs into Claude Code as a hook for fully automated write → audit → fix loops.
 
-​```bash
+```bash
 npx anatoly run
-​```
+```
 
 🌐 [anatoly.cloud](https://anatoly.cloud) · 📦 [GitHub](https://github.com/r-via/anatoly)
 
@@ -48,92 +46,28 @@ After founding and scaling **iilyo / hopla.cloud** (cloud infrastructure, acquir
 
 **For Anatoly & AI agents**
 
-
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-
-
 ![Claude](https://img.shields.io/badge/Claude_Agent_SDK-D97706?style=for-the-badge)
-
-
-
-
 ![tree-sitter](https://img.shields.io/badge/tree--sitter-000000?style=for-the-badge)
-
-
-
-
 ![LanceDB](https://img.shields.io/badge/LanceDB-EE5222?style=for-the-badge)
-
-
-
-
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
-
-
 
 **Broader AI / LLMs**
 
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
-
-
-
-
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-
-
-
-
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-FF4088?style=for-the-badge)
-
-
-
-
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
-
-
 
 **Dev & Infra**
 
-
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-
-
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-
-
-
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-
-
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
-
-
 
 </div>
 
@@ -177,10 +111,6 @@ If you're a dev dealing with AI-generated code rot, send me your repo, I'll audi
 
 *"La réussite collective, c'est la seule qui compte."*
 
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=r-via&color=blueviolet&style=flat-square)
-
-
 
 </div>
