@@ -16,6 +16,16 @@
 
 ## 🔬 Currently Building
 
+### [takotak](https://takotak.ai) — The AI-powered web agency for local businesses
+
+Websites and online visibility for craftspeople, shops and small businesses around Grenoble, sold as a monthly subscription starting at €49. One contact, everything online within a week, kept up to date for you.
+
+Behind the storefront, AI agents do the heavy lifting: they crawl a business's current site and generate a redesign mockup, checked by a deterministic quality gate (layout, contrast, typography, accessibility) before anyone sees it. Then they keep the site alive with weekly articles, written, audited and illustrated automatically.
+
+🌐 [takotak.ai](https://takotak.ai)
+
+---
+
 ### [Anatoly](https://github.com/r-via/anatoly) — Open-source AI agent that audits codebases with proof
 
 The bigger your project gets, the dumber your AI coding agent gets. Anatoly fixes that. It walks through every file, investigates with full project context, and proves every finding before reporting it. No hallucinated dead code, no fake duplication.
